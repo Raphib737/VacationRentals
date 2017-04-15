@@ -1,4 +1,3 @@
-package vacationRentals;
 import java.util.*;
 
 /*

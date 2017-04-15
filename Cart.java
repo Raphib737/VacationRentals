@@ -1,6 +1,3 @@
-
-package vacationRentals;
-
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 

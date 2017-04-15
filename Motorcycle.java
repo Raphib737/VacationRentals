@@ -1,5 +1,3 @@
-package vacationRentals;
-
 import java.util.Calendar;
 
 /*

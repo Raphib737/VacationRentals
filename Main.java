@@ -12,7 +12,6 @@
  *  call the checkout function on the cart.
  */
 
-package vacationRentals;
 import java.text.SimpleDateFormat;
 import java.util.*;
 

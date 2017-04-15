@@ -1,5 +1,3 @@
-package vacationRentals;
-
 /*
  *  Customer Interface displays the possible methods that the Customer Class can use.
  */

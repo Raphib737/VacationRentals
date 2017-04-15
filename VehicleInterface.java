@@ -1,7 +1,3 @@
-/**
- * 
- */
-package vacationRentals;
 import java.util.*;
 /**
  * @author raphaelbaysa

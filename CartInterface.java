@@ -1,5 +1,3 @@
-package vacationRentals;
-
 /*
  *  Cart Interface displays the possible methods that the Cart Class can use.
  */

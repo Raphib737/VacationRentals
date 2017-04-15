@@ -1,5 +1,3 @@
-package vacationRentals;
-
 /*
  * 	Author: Raphael Baysa
  *  The customer class is used to simulate a "customer" who has a Cart object where they can rent out vehicles.

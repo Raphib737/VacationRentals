@@ -1,5 +1,3 @@
-package vacationRentals;
-
 import java.util.Calendar;
 /**
  *  Limousine class is a Vehicle with
