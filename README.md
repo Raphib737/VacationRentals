@@ -1,5 +1,5 @@
-# VacationRentals
-Hello and welcome to my rental vacations calculator. Here we 
+# Paradise Rentals
+Hello and welcome to my rental vehicle calculator. Here we 
 simulate a rental service that allows a customer to take advantage 
 of the numerous vehicles that are available. 
 
