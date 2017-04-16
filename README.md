@@ -21,7 +21,7 @@ of each week. So for example on Monday-Thursday the midsizeCar hashmap would hav
  
  For special cases, I added a addSubTotalPrice() function to reduce the pricing or increase it like the SUV.
  
- For calculating the "if you have a SUV then you get 1 Free Bike rental"  as a discount/promo concept
+ For calculating the "if you have a SUV then you get 1 Free Bike rental" I considered it as a discount/promo concept
   where in the cart I check to see if they exist then if they do I subtract that amount from the cartTotal.
 
 To run:
