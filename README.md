@@ -37,21 +37,21 @@ To run:
 Vehicle Classes
 ==
 
-MidSizeCar(Calendar startTime, Calendar endTime);
+**MidSizeCar**(Calendar startTime, Calendar endTime);
 
-SportsUtilityVehicle(Calendar startTime, Calendar endTime);
+**SportsUtilityVehicle**(Calendar startTime, Calendar endTime);
 
-EconomyCar(Calendar startTime, Calendar endTime);
+**EconomyCar**(Calendar startTime, Calendar endTime);
  
-Limousine(Boolean hasPersonalDriver, Boolean hasFood, Calendar startTime, Calendar endTime);
+**Limousine**(Boolean hasPersonalDriver, Boolean hasFood, Calendar startTime, Calendar endTime);
 
-Bicycle(Calendar startTime, Calendar endTime);
+**Bicycle**(Calendar startTime, Calendar endTime);
 
-Scooter(Calendar startTime, Calendar endTime);
+**Scooter**(Calendar startTime, Calendar endTime);
 
-Motorcycle(int Age, Calendar startTime, Calendar endTime);
+**Motorcycle**(int Age, Calendar startTime, Calendar endTime);
 
-Jetski(Double hours, Calendar startTime, Calendar endTime);
+**Jetski**(Double hours, Calendar startTime, Calendar endTime);
 
 Calendar Dates
 ---
