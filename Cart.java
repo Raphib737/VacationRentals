@@ -105,7 +105,7 @@ public class Cart implements CartInterface{
 		System.out.print("Cart Total: $" + cartTotal);
 		
 		if(hasBikeDiscount){
-			System.out.println(" (free bike rental with SUV reflected on cart total)");
+			System.out.println(" (free 1 bike rental with SUV reflected on cart total)");
 		}
 		else{
 			System.out.println("");
